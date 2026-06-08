@@ -1,3 +1,17 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "id": "8401F2E7",
+      "client": "RAMAX RONDON DO PARA LTDA",
+      "status": "blocked",
+      "expiry": "2026-06-08",
+      "key": "4NOC-GENW-P54B-TKBK",
+      "message": "Entrar em contato com o Suporte (Giovan Santos)",
+      "params": {
+        "GracePeriodDias": "1",
+        "AlertaIniciaDia": "1",
+        "MensagemSuporte": "Entrar em contato com o Suporte (Giovan Santos)"
+      }
+    }
+  ]
 }
