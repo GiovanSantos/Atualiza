@@ -1,6 +1,19 @@
 {
   "licenses": [
     {
+      "id": "TESTINST",
+      "client": "Frigor\u00EDfico Modelo Ltda",
+      "status": "active",
+      "expiry": "",
+      "key": "",
+      "message": "",
+      "params": {
+        "GracePeriodDias": "5",
+        "AlertaIniciaDia": "4",
+        "MensagemSuporte": "Suporte SoluSoftware: (65) 99999-9999"
+      }
+    },
+    {
       "id": "FCC80E1C",
       "client": "RAMAX RONDON DO PARA LTDA",
       "status": "active",
