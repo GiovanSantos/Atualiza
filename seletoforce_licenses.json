@@ -1,3 +1,17 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "id": "c7147394",
+      "client": "D\u0026G Carnes e Derivados",
+      "status": "active",
+      "expiry": "2026-08-12",
+      "key": "C714-7394-OFJA-YDJY-HZIG",
+      "message": "Entrar em contato com Giovan Santos (CEO SoluSoftware)",
+      "params": {
+        "GracePeriodDias": "5",
+        "AlertaIniciaDia": "7",
+        "MensagemSuporte": "Entrar em contato com Giovan Santos (CEO SoluSoftware)"
+      }
+    }
+  ]
 }
