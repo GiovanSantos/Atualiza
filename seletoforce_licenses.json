@@ -12,6 +12,19 @@
         "AlertaIniciaDia": "7",
         "MensagemSuporte": "Entrar em contato com Giovan Santos (CEO SoluSoftware)"
       }
+    },
+    {
+      "id": "c7147394",
+      "client": "D\u0026G Carnes e Derivados",
+      "status": "active",
+      "expiry": "2026-10-21",
+      "key": "C714-7394-IDPX-3XW5-J5SU",
+      "message": "",
+      "params": {
+        "GracePeriodDias": "5",
+        "AlertaIniciaDia": "7",
+        "MensagemSuporte": "Suporte SoluSoftware: (65) 99999-9999"
+      }
     }
   ]
 }
