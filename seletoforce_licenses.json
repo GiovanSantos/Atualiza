@@ -25,6 +25,19 @@
         "AlertaIniciaDia": "7",
         "MensagemSuporte": "Suporte SoluSoftware: (65) 99999-9999"
       }
+    },
+    {
+      "id": "c7147394",
+      "client": "D\u0026G Carnes e Derivados",
+      "status": "active",
+      "expiry": "2026-11-15",
+      "key": "C714-7394-52IE-EXC2-UFAW",
+      "message": "",
+      "params": {
+        "GracePeriodDias": "5",
+        "AlertaIniciaDia": "7",
+        "MensagemSuporte": "Suporte SoluSoftware: (65) 99999-9999"
+      }
     }
   ]
 }
